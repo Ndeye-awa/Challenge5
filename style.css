@@ -1,0 +1,37 @@
+body{
+    margin: auto;
+    font-family: 'Roboto' sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+ img{
+    width: 100%;
+ }
+
+.box{
+    border: 1px solid black;
+    height: 450px;
+    width: 250px;
+}
+
+.card-body{
+    text-align: start;
+    margin: 10px;
+}
+
+.card-body .first{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
